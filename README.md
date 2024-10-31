@@ -21,7 +21,7 @@
 
 🦾 Aportar conocimiento y con ello generar valor en el equipo de trabajo aplicando metodologias agiles.
 
-> [!NOTA]
+> [!NOTE]
 > "Sabes cuál es el problema?
 >  Imaginarte el algoritmo y no programarlo"
 
